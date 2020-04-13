@@ -1,0 +1,26 @@
+table {
+border-collapse:collapse;
+width:100%;
+color:#588c7e;
+font-family:monospace;
+font-size:20px;
+text-align:left;
+}
+
+h1 {
+	
+	border-radius:5px; 
+	padding:1px; 
+	margin-bottom:1px; 
+	height:60px;
+	color:#588c7e;
+	text-align:center;
+}
+
+h6 {
+	 font-size:20px
+}
+
+firstdiv {
+	height:100px;
+}
